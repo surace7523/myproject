@@ -1,0 +1,14 @@
+<?php
+
+$con=mysqli_connect("localhost","root","","ecom");
+
+
+//getting the cetegores
+
+function getcats(){
+
+$get_cats= "select * from categories";
+
+}
+
+>
